@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Banka Yawe</string>
+    <string name="choose_your_registered_sim">Choose your Registered SIM</string>
+    <string name="regSim">To be able to transact, choose a registered SIM Card that corresponds with your Bank Account details.</string>
+    <string name="sim_01">SIM 01</string>
+    <string name="spartNo">+256 784 912769</string>
+    <string name="sim_02">SIM 02</string>
+    <string name="regText">Choose which SIM to Register.</string>
+    <string name="recent_transactions">Recent Transactions</string>
+</resources>

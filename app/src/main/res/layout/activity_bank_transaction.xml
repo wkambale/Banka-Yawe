@@ -1,0 +1,76 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/bottom_sheet" />
+
+
+<!--    <include layout="@layout/content_main" />-->
+
+    <!-- Adding bottom sheet after main content -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="40dp"
+        android:paddingTop="40dp"
+        android:paddingLeft="23dp"
+        android:paddingRight="23dp"
+        android:layout_gravity="bottom"
+        android:clipToPadding="false"
+        android:background="@drawable/top_corner_rect"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:id="@+id/tVOne"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="#ffffff"
+            android:lineSpacingExtra="3sp"
+            android:background="@drawable/blue_rect"
+            android:gravity="center_horizontal"
+            android:text="All"
+            android:paddingTop="11dp"
+            android:paddingBottom="11dp"/>
+
+        <TextView
+            android:id="@+id/tvSecond"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/blue"
+            android:lineSpacingExtra="3sp"
+            android:background="@drawable/blue_light_rect1"
+            android:gravity="center_horizontal"
+            android:text="Send"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:paddingTop="11dp"
+            android:paddingBottom="11dp"/>
+
+        <TextView
+            android:id="@+id/tvThird"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/blue"
+            android:lineSpacingExtra="3sp"
+            android:background="@drawable/blue_light_rect1"
+            android:gravity="center_horizontal"
+            android:text="Recived"
+            android:paddingTop="11dp"
+            android:paddingBottom="11dp"/>
+
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
