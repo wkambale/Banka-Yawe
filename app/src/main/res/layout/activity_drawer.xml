@@ -38,7 +38,7 @@
                 android:layout_gravity="center"
                 android:lineSpacingExtra="66sp"
                 android:layout_marginLeft="10dp"
-                android:text="Ramakrishnan"
+                android:text="Wesley Kambale"
                 />
             </LinearLayout>
 
