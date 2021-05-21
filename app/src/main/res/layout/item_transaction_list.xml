@@ -51,7 +51,7 @@
             android:textSize="12sp"
             android:textColor="#3d2582"
             android:lineSpacingExtra="2sp"
-           android:text="10:30 16 Jun"
+           android:text="10:30 AM, 16 May"
             />
     </LinearLayout>
 
@@ -62,7 +62,7 @@
         android:textSize="18sp"
         android:textColor="#3d2582"
         android:lineSpacingExtra="4sp"
-        android:text="$ 22.60"
+        android:text="UGX 20,000"
         android:layout_gravity="center"/>
 
 
