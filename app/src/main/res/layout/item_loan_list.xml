@@ -17,6 +17,6 @@
         android:textColor="#ffffff"
         android:lineSpacingExtra="3sp"
         android:gravity="center_horizontal"
-        android:text="1 Y" />
+        android:text="1 Year" />
 
 </LinearLayout>
