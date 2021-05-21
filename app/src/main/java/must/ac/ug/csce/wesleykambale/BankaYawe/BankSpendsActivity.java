@@ -26,7 +26,7 @@ public class BankSpendsActivity extends AppCompatActivity {
             R.drawable.ic_money,R.drawable.ic_shopping_bag,R.drawable.ic_smartphone,};
     private String title[] = {"Cash Withdrawal","Grocery Store","Mobile Recharge","Cash Withdrawal","Grocery Store","Mobile Recharge",
             "Cash Withdrawal","Grocery Store","Mobile Recharge",};
-    private String subtitle[] = {"$ 22.60","$ 12.00","$ 16.40","$ 22.60","$ 12.00","$ 16.40","$ 22.60","$ 12.00","$ 16.40",};
+    private String subtitle[] = {""UGX 1,222.60","UGX 23,012.00","UGX 28,000.40","UGX 14,000","UGX 56,078","UGX 16,100.40","UGX 7,800","UGX 12,293.00","UGX 16,637.40",};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
