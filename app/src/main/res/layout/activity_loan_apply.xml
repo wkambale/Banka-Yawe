@@ -60,7 +60,7 @@
         android:layout_marginLeft="34dp"
         android:layout_marginTop="35dp"
         android:lineSpacingExtra="4sp"
-       android:text="Looking for a Loan" />
+       android:text="Grab a Loan" />
 
         </LinearLayout>
 
@@ -116,7 +116,7 @@
                 android:textSize="12sp"
                 android:textColor="#3d2582"
                 android:lineSpacingExtra="2sp"
-                android:text="$1000" />
+                android:text="UGX 10,000" />
 
 
             <TextView
@@ -125,7 +125,7 @@
                 android:textSize="12sp"
                 android:textColor="#3d2582"
                 android:lineSpacingExtra="2sp"
-                android:text="$50.000" />
+                android:text="UGX 500,000" />
 
 
         </LinearLayout>
@@ -137,7 +137,7 @@
             android:textColor="@color/blue"
             android:lineSpacingExtra="3sp"
             android:layout_marginTop="50dp"
-            android:text="Loan Tenuture" />
+            android:text="Loan Tenure" />
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
@@ -187,23 +187,8 @@
             android:textColor="#3d2582"
             android:layout_gravity="center"
             android:lineSpacingExtra="4sp"
-            android:text="$632.29"
+            android:text="UGX 200,430.29"
             />
-    </LinearLayout>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="10sp"
-                android:textColor="#3d2582"
-                android:lineSpacingExtra="2sp"
-                android:layout_marginLeft="34dp"
-                android:layout_marginRight="34dp"
-                android:layout_marginTop="50dp"
-                android:text="Unhealthy uterus or ovarian cyst .Woman uterus concept. Vector modern
-style cartoon character illustration"
-                />
-
 
             <Button
                 android:layout_width="match_parent"
