@@ -73,7 +73,7 @@
                 android:textSize="22sp"
                 android:textColor="#3d2582"
                 android:lineSpacingExtra="4sp"
-                android:text="$ 2633.45"
+                android:text="UGX 760,633.45"
                 />
 
 
@@ -130,7 +130,7 @@
                         android:textSize="14sp"
                         android:textColor="#3d2582"
                         android:lineSpacingExtra="3sp"
-                        android:text="$ 364"
+                        android:text="UGX 364,340"
                         />
                 </LinearLayout>
 
@@ -168,7 +168,7 @@
                             android:textSize="14sp"
                             android:textColor="#3d2582"
                             android:lineSpacingExtra="3sp"
-                            android:text="$ 293"
+                            android:text="UGX 293,000"
                             />
                     </LinearLayout>
 
@@ -206,7 +206,7 @@
                             android:textSize="14sp"
                             android:textColor="#3d2582"
                             android:lineSpacingExtra="3sp"
-                            android:text="$ 128"
+                            android:text="UGX 123,450"
                             />
                     </LinearLayout>
 
@@ -256,7 +256,7 @@
                             android:textSize="14sp"
                             android:textColor="#3d2582"
                             android:lineSpacingExtra="3sp"
-                            android:text="$ 150"
+                            android:text="UGX 45,150"
                             />
                     </LinearLayout>
 
@@ -285,7 +285,7 @@
                             android:textSize="10sp"
                             android:textColor="#3d2582"
                             android:lineSpacingExtra="2sp"
-                            android:text="Entertinment"
+                            android:text="Entertainment"
                             />
 
                         <TextView
@@ -294,7 +294,7 @@
                             android:textSize="14sp"
                             android:textColor="#3d2582"
                             android:lineSpacingExtra="3sp"
-                            android:text="$ 250"
+                            android:text="UGX 250,780"
                             />
                     </LinearLayout>
 
@@ -332,7 +332,7 @@
                             android:textSize="14sp"
                             android:textColor="#3d2582"
                             android:lineSpacingExtra="3sp"
-                            android:text="$ 128"
+                            android:text="UGX 128,430"
                             />
                     </LinearLayout>
 
