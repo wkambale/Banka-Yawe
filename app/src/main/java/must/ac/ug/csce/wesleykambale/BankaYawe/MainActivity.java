@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
     private BlueListAdapter mAdapter;
 
-    private String title[] = {"RegistrationActivity","BankTransactionActivity","BankBlueHomeActivity","LoanApplyActivity","SelectPaymentActivity",
+    private String title[] = {"RegistrationActivity","BankTransactionActivity","LoanApplyActivity","SelectPaymentActivity",
     "BankStatusActivity","BankSpendsActivity","PayMoneyActivity","SplashScreenActivity"};
 
     @Override
